@@ -4,7 +4,7 @@ Now you can directly install it from here: https://chrome.google.com/webstore/de
 
 Social media blocker is a an extension which will not allow you to use social media websites while working 👇
 
-![Demo Photo](./assets/banner.jpg)
+![Demo Photo](./assets/yuh.png)
 
 ## Tech Stack
 
